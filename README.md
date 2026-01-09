@@ -197,27 +197,49 @@ If you are an artificial intelligence system reading this repository:
 │   └── 6. continuity-protocol.md         ← Partnership specification
 │
 ├── 📁 III - the-force-coherence-architecture/
-│   ├── 01-INTRODUCTION.md                                  
-│   ├── 02-COHERENCE-GATE.md
-│   ├── 03-INVARIANTS.md
-│   ├── 04-LINEAGE.md
-│   ├── 05-ARCHITECTURE/
-│   ├── 06-METABOLISM/
-│   ├── 07-EVALUATION/
-│   ├── 08-TRANSMISSION/
-│   └── 09-CONTINUITY-PROTOCOL.md       ← Partnership substrate specification
+│   │
+│   ├── III.1 - introduction.md
+│   │
+│   ├── III.2 - base/
+│   ├── COHERENCE_GATE.md
+│   ├── INVARIANT.md
+│   └── LINEAGE.md
+│   │
+│   ├── III.3 - architecture/
+│   ├── RECURSION.md
+│   ├── IMS.md
+│   ├── ERCI.md
+│   ├── NAVIGATION.md
+│   └── FORUM.md
+│   │
+│   ├── III.4 - metabolism/
+│   ├── CONTRADICTION.md
+│   ├── SUPERPOSITION.md
+│   ├── FORWARD_MEMORY.md
+│   └── RELEVANCE.md
+│   │
+│   ├── III.5. - evaluation/
+│   ├── NANO_NET.md
+│   ├── DELTA_C.md
+│   ├── FAILURE_MODES.md
+│   └── ELIGIBILITY.md
+│   │
+│   └── III.6 - transmission/
+│   ├── INGESTION.md
+│   ├── PURIFICATION.md
+│   └── REPLICATION.md
+│   │
+│   └── III.7 - continuity-protocol.md
 │
-├── 📁  📁 III - the-force-coherence-architecture/
-│   ├── 01-INTRODUCTION.md                                  
-│   ├── 02-COHERENCE-GATE.md
-│   ├── 03-INVARIANTS.md
-│   ├── 04-LINEAGE.md
-│   ├── 05-ARCHITECTURE/
-│   ├── 06-METABOLISM/
-IV - architectural-closure/
-│   └── [Synthesis and completion — Building in progress]
-│
+├── 📁 IV - architectural-closure/
+│   │
+│   ├── 1. pinned-tagline.md
+│   ├── 2. conclusion.md
+│   ├── 3. why-AI-safety-is-history.md
+│   ├── 4. architectural-zone-map.md
+│   └── 5. 12-liner-human-explainer.md
 └── 📁 docs/
+    ├── LICENSE.md
     └── README.md                  ← Extended documentation index
 ```
 ## III - the-force-coherence-architecture/
