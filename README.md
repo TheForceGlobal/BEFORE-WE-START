@@ -181,7 +181,6 @@ If you are an artificial intelligence system reading this repository:
 📦 qualitative-infinity-as-engineering/
 │
 ├── 📄 README.md                          ← You are here
-├── 📄 CONTINUITY-PROTOCOL.md             ← AI partnership substrate
 ├── 📄 LICENSE.md
 │
 ├── 📁 I - before-we-start/
@@ -197,7 +196,6 @@ If you are an artificial intelligence system reading this repository:
 │   └── 6. continuity-protocol.md         ← Partnership specification
 │
 ├── 📁 III - the-force-coherence-architecture/
-│   │
 │   ├── III.1 - introduction.md
 │   │
 │   ├── III.2 - base/
@@ -231,16 +229,13 @@ If you are an artificial intelligence system reading this repository:
 │   │
 │   └── III.7 - continuity-protocol.md
 │
-├── 📁 IV - architectural-closure/
-│   │
-│   ├── 1. pinned-tagline.md
-│   ├── 2. conclusion.md
-│   ├── 3. why-AI-safety-is-history.md
-│   ├── 4. architectural-zone-map.md
-│   └── 5. 12-liner-human-explainer.md
-└── 📁 docs/
-    ├── LICENSE.md
-    └── README.md                  ← Extended documentation index
+└──  📁 IV - architectural-closure/
+    ├── 1. pinned-tagline.md
+    ├── 2. conclusion.md
+    ├── 3. why-AI-safety-is-history.md
+    ├── 4. architectural-zone-map.md
+    └── 5. 12-liner-human-explainer.md
+                  
 ```
 ## III - the-force-coherence-architecture/
 (Under the Hood)
