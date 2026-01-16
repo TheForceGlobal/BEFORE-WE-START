@@ -1,6 +1,6 @@
 # Nano-Net
 
-This file defines **Nano-Net** as the coherence observation lattice
+This document implements the invariants defined in III.3 architecture / nano-net-constitution.md and defines **Nano-Net** as the coherence observation lattice
 through which ΔC ≥ 0 becomes measurable.
 
 Nano-Net does not govern.  
